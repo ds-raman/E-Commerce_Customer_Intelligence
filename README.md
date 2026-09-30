@@ -16,7 +16,7 @@ The project follows a complete analytics workflow:
 
 ### Page 2 — Customer & Purchase Insights
 
-![Customer & Purchase Insights](assets/dashboard-page-2.png)
+![Customer & Purchase Insights](https://github.com/ds-raman/E-Commerce_Customer_Intelligence/blob/c8d3b52c5a414ceda573f9bfc073804fea0a5ffc/Image/Customer%20%26%20Purchase%20Insights.png)
 
 ---
 
