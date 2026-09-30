@@ -54,7 +54,7 @@ The main objective is to transform raw e-commerce data into actionable insights 
 
 # Project Workflow
 
-```text
+
 Raw Dataset
      ↓
 Data Understanding & Cleaning
@@ -70,7 +70,7 @@ Interactive Dashboard
 Key Insights
      ↓
 Business Recommendations
-
+----
 
 ## Project workflow Structure in Detail
 
