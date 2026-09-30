@@ -12,7 +12,7 @@ The project follows a complete analytics workflow:
 
 ### Page 1 — Executive & Sales Overview
 
-![Executive & Sales Overview](assets/dashboard-page-1.png)
+![Executive & Sales Overview](assets/https://github.com/ds-raman/E-Commerce_Customer_Intelligence/blob/a7679c63a244b7cc09675582dc17e40d095c94e7/Image/Executive%20and%20Sales%20Overview.png)
 
 ### Page 2 — Customer & Purchase Insights
 
