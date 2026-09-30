@@ -52,26 +52,6 @@ The main objective is to transform raw e-commerce data into actionable insights 
 
 ---
 
-# Project Workflow
-
----text
-Raw Dataset
-     ↓
-Data Understanding & Cleaning
-     ↓
-Python Exploratory Data Analysis
-     ↓
-SQL Business Analysis
-     ↓
-Power BI Data Modeling & DAX
-     ↓
-Interactive Dashboard
-     ↓
-Key Insights
-     ↓
-Business Recommendations
----
-
 ## Project workflow Structure in Detail
 
 The project follows a structured end-to-end Data Analytics workflow, starting from raw customer data and ending with actionable business recommendations.
@@ -102,8 +82,32 @@ The dashboard was used to identify important business patterns, including high-p
 ### 8. Business Recommendations
 The identified insights were converted into actionable recommendations focused on product availability, cross-selling, customer retention and targeted discount strategies.
 
+# Project Workflow In Short
+```text
+
+## Project workflow Structure in Detail
+
+Raw Dataset
+     ↓
+Data Understanding & Cleaning
+     ↓
+Python Exploratory Data Analysis
+     ↓
+SQL Business Analysis
+     ↓
+Power BI Data Modeling & DAX
+     ↓
+Interactive Dashboard
+     ↓
+Key Insights
+     ↓
+Business Recommendations
+---
+
+## Project workflow Structure in Detail
+
 ## My Project Overview
----text
+```text
 
 E-Commerce-Customer-Intelligence/
 │
